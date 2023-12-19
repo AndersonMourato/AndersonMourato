@@ -1,5 +1,5 @@
 
-# 🅰️ Anderson Mourato
+# 🅰️ Hi, my name is Anderson and I'm looking for my first job as a developer.
 
 ### 👨🏽‍💻 Statistics on GitHub
 
