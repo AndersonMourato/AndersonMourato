@@ -1,24 +1,30 @@
 
-# 🅰️ Hi, my name is Anderson and I'm looking for my first job as a developer.
+# 🅰️ Olá, meu nome é Anderson.
 
-### 💭 About me:
+### 💭 Sobre:
 
-I have a degree in technology in SYSTEMS ANALYSIS AND DEVELOPMENT.
+Sou formado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS.
+Busco integrar uma organização que ofereça estabilidade, onde minha paixão pela tecnologia possa impulsionar melhorias significativas, agregando valor à equipe e contribuindo para o progresso.
 
-My last job was as a Graphic Designer for another 5 years, then I was promoted to Analyst for another 3 years. Currently my English is basic, but I am taking a course at WeLike English School.
+Habilidades:
+- Proficiência em resolução de problemas e lógica de programação.
+- Habilidades de comunicação e trabalho em equipe.
+- Capacidade de aprender rapidamente e se adaptar a novas tecnologias.
+- Inglês técnico.
+  
+Experiências:
+- Realização de testes de usabilidade.
+- Gestão de treinamento e suporte.
+- Desenvolvimento de layouts intuitivos para as aplicações.
 
-My goal is to become a senior developer and contribute to excellent projects, I love technology and I am extremely curious, I am always looking to improve my skills and knowledge.
-
-I am committed to delivering with excellence any project assigned to me, I believe that collaboration and effective communication are fundamental to everyone's success.
-
-## 👨🏽‍💻 Statistics on GitHub
+## 👨🏽‍💻 Estatística do GitHub
 
 ![AndersonMourato's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMourato&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndersonMourato&layout=compact&theme=radical)
 
 
-## 👨🏽‍💻 Languages
+## 👨🏽‍💻 Competências
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
