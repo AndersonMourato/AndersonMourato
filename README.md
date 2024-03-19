@@ -1,30 +1,25 @@
 
-# 🅰️ Olá, meu nome é Anderson.
+# 🅰️ I'm Anderson.
 
-### 💭 Sobre:
+### 💭 About me:
 
-Sou formado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS.
-Busco integrar uma organização que ofereça estabilidade, onde minha paixão pela tecnologia possa impulsionar melhorias significativas, agregando valor à equipe e contribuindo para o progresso.
+I seek to join an organization that offers stability, where my passion for technology can bring significant improvements, adding value to the team and contributing to progress.
 
-Habilidades:
-- Proficiência em resolução de problemas e lógica de programação.
-- Habilidades de comunicação e trabalho em equipe.
-- Capacidade de aprender rapidamente e se adaptar a novas tecnologias.
-- Inglês técnico.
+I'm proficient in problem solving and programming logic, which allows me to develop efficient and creative solutions. Additionally, my communication and teamwork skills allow me to collaborate effectively with other professionals to achieve common goals. I have the ability to learn quickly and adapt to new technologies.
   
-Experiências:
-- Realização de testes de usabilidade.
-- Gestão de treinamento e suporte.
-- Desenvolvimento de layouts intuitivos para as aplicações.
+Experiences:
+- Carrying out usability tests.
+- Training and support management.
+- Development of intuitive layouts for applications.
 
-## 👨🏽‍💻 Estatística do GitHub
+## 👨🏽‍💻 GitHub Statistics
 
 ![AndersonMourato's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMourato&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndersonMourato&layout=compact&theme=radical)
 
 
-## 👨🏽‍💻 Competências
+## 👨🏽‍💻 Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
