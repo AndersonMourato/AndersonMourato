@@ -3,14 +3,13 @@
 
 ### 💭 About me:
 
-I seek to join an organization that offers stability, where my passion for technology can bring significant improvements, adding value to the team and contributing to progress.
+Graduated in Systems Analysis and Development and with technical training from the institution Fuctura Tecnologia in full stack development. I have experience in prototyping, testing, systems improvement with proficiency in problem solving and programming logic. 
 
-I'm proficient in problem solving and programming logic, which allows me to develop efficient and creative solutions. Additionally, my communication and teamwork skills allow me to collaborate effectively with other professionals to achieve common goals. I have the ability to learn quickly and adapt to new technologies.
+I seek to join an organization that offers stability, where my passion for technology can bring significant improvements, adding value to the team and contributing to progress.
   
-Experiences:
-- Carrying out usability tests.
-- Training and support management.
-- Development of intuitive layouts for applications.
+Conhecimentos sólidos em HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js, PHP, Java, C.
+Banco de dados: MySQL, SQL Server, Postgres, MongoDB.
+Controle de Versão (GIT).
 
 ## 👨🏽‍💻 GitHub Statistics
 
