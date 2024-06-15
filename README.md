@@ -3,13 +3,11 @@
 
 ### 💭 About me:
 
-Graduated in Systems Analysis and Development and with technical training from the institution Fuctura Tecnologia in full stack development. I have experience in prototyping, testing, systems improvement with proficiency in problem solving and programming logic. 
+I awakened my passion for technology when I was 24 years old. Since then, I have tirelessly sought knowledge and improvement. Graduated in Technology in Systems Analysis and Development (ADS), I complemented my training with technical courses, seeking to improve my skills. Motivated and proactive, look for opportunities to demonstrate my capabilities and contribute to the growth of partner companies.
 
-I seek to join an organization that offers stability, where my passion for technology can bring significant improvements, adding value to the team and contributing to progress.
-  
-Conhecimentos sólidos em HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js, PHP, Java, C.
-Banco de dados: MySQL, SQL Server, Postgres, MongoDB.
-Controle de Versão (GIT).
+Solid knowledge of HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js, PHP, Java, C.
+Database: MySQL, SQL Server, Postgres, MongoDB.
+Version control (GIT).
 
 ## 👨🏽‍💻 GitHub Statistics
 
