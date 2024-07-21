@@ -3,7 +3,7 @@
 
 ### 💭 About me:
 
-I awakened my passion for technology when I was 24 years old. Since then, I have tirelessly sought knowledge and improvement. Graduated in Technology in Systems Analysis and Development (ADS), I complemented my training with technical courses, seeking to improve my skills. Motivated and proactive, look for opportunities to demonstrate my capabilities and contribute to the growth of partner companies.
+Constantly evolving, I found my true passion in technology. After a professional journey exploring areas such as IT Support, Graphic Design and Commercial Analyst, I decided to dedicate my efforts to developing my programming skills. In a career transition, I am free to start a new journey as a developer and learning from an experienced team. My skills in IT, design and commercial analysis, combined with my passion for programming, make me a versatile professional capable of delivering innovative solutions.
 
 Solid knowledge of HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js, PHP, Java, C.
 Database: MySQL, SQL Server, Postgres, MongoDB.
