@@ -3,11 +3,9 @@
 
 ### 💭 About me:
 
-Constantly evolving, I found my true passion in technology. After a professional journey exploring areas such as IT Support, Graphic Design and Commercial Analyst, I decided to dedicate my efforts to developing my programming skills. In a career transition, I am free to start a new journey as a developer and learning from an experienced team. My skills in IT, design and commercial analysis, combined with my passion for programming, make me a versatile professional capable of delivering innovative solutions.
+Graduated in Systems Analysis and Development and with experience in the areas of analyst, marketing and design, I am going through a career transition where I am looking for an opportunity to enter the market as a junior developer. My experience provides strategic vision and communication skills that complement my technical knowledge. I look forward to applying my knowledge to requested projects.
 
-Solid knowledge of HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js, PHP, Java, C.
-Database: MySQL, SQL Server, Postgres, MongoDB.
-Version control (GIT).
+Technical Skills: HTML, CSS, JavaScript, TypeScript, Angular, Java, Python, MySQL, PostgreSQL, GIT and Figma
 
 ## 👨🏽‍💻 GitHub Statistics
 
@@ -27,4 +25,4 @@ Version control (GIT).
 
 ## 👨🏽‍💻 Social Network
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-mourato-b8a61b22a/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.mouratoo/)  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:anderson.mouratoo@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5587981270428)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-mouratoo/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.mouratoo/)  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:anderson.mouratoo@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5587981270428)
