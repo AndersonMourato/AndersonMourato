@@ -3,9 +3,12 @@
 
 ### 💭 About me:
 
-Graduated in Systems Analysis and Development and with experience in the areas of analyst, marketing and design, I am going through a career transition where I am looking for an opportunity to enter the market as a junior developer. My experience provides strategic vision and communication skills that complement my technical knowledge. I look forward to applying my knowledge to requested projects.
+Graduated in Systems Analysis and Development.
+During my career, I developed an internal system as a team for BOPE in Pernambuco, using Angular, Spring Boot and PostgreSQL. I am passionate about new technologies and constantly seek to improve myself. My communication and teamwork skills, acquired in previous projects, allow me to collaborate effectively in multidisciplinary teams.
 
-Technical Skills: HTML, CSS, JavaScript, TypeScript, Angular, Java, Python, MySQL, PostgreSQL, GIT and Figma
+UX Design skills to create intuitive interfaces and solve complex problems. I master tools such as Figma and Adobe XD and am able to conduct usability tests to identify opportunities for improvement. 
+
+Technical Skills: HTML, CSS, JavaScript, TypeScript, Angular, React, Java, Spring Boot, Python, MySQL, PostgreSQL e GIT
 
 ## 👨🏽‍💻 GitHub Statistics
 
