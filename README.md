@@ -1,15 +1,3 @@
-
-# 🅰️ I'm Anderson.
-
-### 💭 About me:
-
-Graduated in Systems Analysis and Development.
-During my career, I developed an internal system as a team for BOPE in Pernambuco, using Angular, Spring Boot and PostgreSQL. I am passionate about new technologies and constantly seek to improve myself. My communication and teamwork skills, acquired in previous projects, allow me to collaborate effectively in multidisciplinary teams.
-
-UX Design skills to create intuitive interfaces and solve complex problems. I master tools such as Figma and Adobe XD and am able to conduct usability tests to identify opportunities for improvement. 
-
-Technical Skills: HTML, CSS, JavaScript, TypeScript, Angular, React, Java, Spring Boot, Python, MySQL, PostgreSQL e GIT
-
 ## 👨🏽‍💻 GitHub Statistics
 
 ![AndersonMourato's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMourato&show_icons=true&theme=radical)
